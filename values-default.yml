@@ -2,3 +2,6 @@
 ---
 web:
   enabled: true
+
+worker:
+  enabled: true

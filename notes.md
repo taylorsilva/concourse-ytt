@@ -1,0 +1,3 @@
+- single or separate file for default values? thinking one file for default values and then suggest users make their own values-THING.yml
+- put things in a template directory? or keep them top-level? let's try top-level and see how it feels to use with ytt. ytt does have a way of specifying either a dir or individual files
+- test using golang and usinng k8's CRD's for each object we're rendering.
